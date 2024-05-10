@@ -2,12 +2,9 @@ import React from 'react'
 import './Features.css'
 
 const Features = () => {
-  return 
-  (
-    <div>
-      <h1>Features</h1>
-    </div>
-  )
+  return <h1>Features</h1>
+
+
 }
 
 export default Features
