@@ -1,5 +1,5 @@
 import './App.css'
-import { Footer, Blog, Possibility, Features, WhatGPT3, Header} from './containers'
+import { Footer, Blog, Possibility, WhatGPT3, Header, Features} from './containers'
 import { Brand, CTA, NavBar } from './components'
 
 function App() {
@@ -11,6 +11,7 @@ function App() {
         </div>
         <Brand />
         <WhatGPT3 />
+        <Features />
         <Possibility />
         <CTA />
         <Blog />
