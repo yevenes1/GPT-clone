@@ -1,5 +1,5 @@
 import React from 'react';
-import Feature from '../../components/feature/Feature';
+import Feature from '../../components/Feature/Feature';
 import './Features.css';
 
 const featuresData = [
